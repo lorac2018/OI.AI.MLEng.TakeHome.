@@ -1,0 +1,9 @@
+fastapi~=0.115.4
+uvicorn
+torch~=2.5.1
+torchvision~=0.20.1
+requests~=2.32.3
+celery==5.4.0
+pydantic~=2.9.2
+pillow~=11.0.0
+redis==4.0.2
