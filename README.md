@@ -115,3 +115,4 @@ marine_model_app                   | INFO:     172.19.0.1:50808 - "GET /openapi.
 marine_model_app                   | INFO:     172.19.0.1:50814 - "POST /classify HTTP/1.1" 200 OK
 oiaimlengtakehome-celery_worker-1  | [2024-11-03 15:54:00,970: INFO/MainProcess] Task celery_worker.classify_images_task[52e1cda3-d7c3-4524-b4a8-b2ea483ddbf2] received
 
+"# OI.AI.MLEng.TakeHome." 
